@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+}
+h3{
+    display: inline;
+}
+.navbar i{
+    color:white;
+    font-size: 25px;
+    padding: 10px;
+}
+.nav-link:hover{
+    color:white;
+}
+.bg1{
+    background-image: url(../images/bg1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.card-bg{
+    background-color: rgba(194, 240, 249, .4);
+    
+}
+.card-bg i{
+    color: #070C6D;
+}
+.main{
+    height: 800px;
+}
+.card-header{
+    background-color: rgba(243, 11, 30, 0.47);
+}
+.card-header h3{
+    color: #070C6D;
+    font-family: TimesNewRoman;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.form-check-label{
+    font-weight: bold;
+    color: white;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
