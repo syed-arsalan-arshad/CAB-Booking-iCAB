@@ -2,7 +2,7 @@
         <nav class="navbar navbar-expand-lg bg-info" style="position:relative;bottom:0px;width:100%;color:white">
             
             <span class="navbar-text mr-auto ml-5">
-                Designed & Developed By Arsalan & Razique
+                Designed & Developed By Arsalan
             </span>
              <span class="navbar-text mr-auto">
                 Copyright &copy; 2020. All right reserved.
